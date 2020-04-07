@@ -8,6 +8,9 @@ namespace pis_vj1
 {
 	class Class1
 	{
-		//Promjena
+		static void Main(string[] args)
+		{
+			
+		}
 	}
 }
