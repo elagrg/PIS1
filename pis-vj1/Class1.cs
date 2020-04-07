@@ -8,9 +8,10 @@ namespace pis_vj1
 {
 	class Class1
 	{
-		static void Main(string[] args)
-		{
-			
-		}
+<<<<<<< HEAD
+		
+=======
+		//Promjenaa
+>>>>>>> 83ba4741181a8ce29f7611df8666f47fc5ebc4bd
 	}
 }
